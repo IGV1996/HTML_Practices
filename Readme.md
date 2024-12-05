@@ -1,1 +1,2 @@
-practicing HTML
+Practicing HTML
+Author: Ismael González
